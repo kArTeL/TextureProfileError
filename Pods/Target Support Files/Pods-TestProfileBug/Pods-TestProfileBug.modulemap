@@ -1,0 +1,6 @@
+framework module Pods_TestProfileBug {
+  umbrella header "Pods-TestProfileBug-umbrella.h"
+
+  export *
+  module * { export * }
+}
